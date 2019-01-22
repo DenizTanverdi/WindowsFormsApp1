@@ -92,6 +92,7 @@ namespace WindowsFormsApp1
                     button1.Visible = true;
                     button2.Visible = false;
                 }
+                //
                 
                 
 
